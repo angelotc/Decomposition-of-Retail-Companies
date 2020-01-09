@@ -1,2 +1,2 @@
 # Decomposition-of-Retail-Companies
-Stock backtesting scripts / exploration scripts. No local stock data needed. Uses yfinance, pandas, numpy, and fbprophet. 
+Jupyter notebook(s) that explore seasonality in stock returns using numpy, pandas, matplotlib, and yfinance libraries; calculates the adjusted returns as if you bought the stock at the start date, and sold at the end date. 
